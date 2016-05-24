@@ -26,3 +26,12 @@
  >从远程抓取分支，使用git pull，如果有冲突，要先处理冲突。
 
 **冲突处理**
+
+**标签学习**
+ >命令git tag <name>用于新建一个标签，默认为HEAD，也可以指定一个commit id；
+
+ >git tag -a <tagname> -m "blablabla..."可以指定标签信息；
+
+ >git tag -s <tagname> -m "blablabla..."可以用PGP签名标签；
+
+ >命令git tag可以查看所有标签。
