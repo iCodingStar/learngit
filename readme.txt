@@ -1,1 +1,0 @@
-Hello， I am from codingstar!
